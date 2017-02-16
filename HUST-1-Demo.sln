@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模拟登陆", "模拟登�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模拟表单提交", "模拟表单提交\模拟表单提交.csproj", "{E6E1C7FC-9227-40E8-BFB5-DDA211C429E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模拟MVC", "模拟MVC\模拟MVC.csproj", "{7494632D-9C59-474F-BD76-5B3C5810D8D6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模拟上传", "模拟上传\模拟上传.csproj", "{4607805D-B951-44CA-B7A1-1B319191A6CE}"
 EndProject
 Global
@@ -35,10 +33,6 @@ Global
 		{E6E1C7FC-9227-40E8-BFB5-DDA211C429E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6E1C7FC-9227-40E8-BFB5-DDA211C429E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6E1C7FC-9227-40E8-BFB5-DDA211C429E0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7494632D-9C59-474F-BD76-5B3C5810D8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7494632D-9C59-474F-BD76-5B3C5810D8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7494632D-9C59-474F-BD76-5B3C5810D8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7494632D-9C59-474F-BD76-5B3C5810D8D6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4607805D-B951-44CA-B7A1-1B319191A6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4607805D-B951-44CA-B7A1-1B319191A6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4607805D-B951-44CA-B7A1-1B319191A6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -46,8 +40,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(Performance) = preSolution
-		HasPerformanceSessions = true
 	EndGlobalSection
 EndGlobal
